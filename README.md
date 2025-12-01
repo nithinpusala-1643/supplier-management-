@@ -36,22 +36,6 @@ gcc supplier_management.c -o supplier_management
 - Use the menu to add, view, search, or delete suppliers.
 
 
-<img width="977" height="575" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/80399baf-b8d6-4822-8f45-ac64432efa00" />
-
-
-<img width="908" height="539" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/e1c89ce2-83b2-43c1-9918-7216d13b07e6" />
-
-
-<img width="966" height="548" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/cdc634b9-98fd-4bb6-a031-2408fc5164be" />
-
-
-<img width="977" height="526" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/ef4b3c18-1ab0-47f3-943e-eb233d6fe6d1" />
-
-
-<img width="972" height="541" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d162d602-588a-4faf-875d-ffe8620736bc" />
-
-
-<img width="997" height="511" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/f492e81b-5f88-4c19-a2c2-0276d5207d3d" />
 
 
 
